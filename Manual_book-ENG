@@ -1,0 +1,15 @@
+How to Run the System
+Step 1 – Download Repository
+Clone or download the repository from GitHub.
+
+Step 2 – Ensure File Placement
+Make sure:
+- notebook.ipynb
+- dataset.csv
+are in the same directory.
+
+Step 3 – Open Notebook
+Open using Jupyter Notebook or Google Colab.
+
+Step 4 – Run All Cells
+Run all cells sequentially.
