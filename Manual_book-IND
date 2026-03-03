@@ -1,0 +1,16 @@
+Langkah 1 – Download Repository
+Download atau clone repository dari GitHub.
+
+Langkah 2 – Pastikan Struktur File
+Pastikan file berikut berada dalam satu folder:
+- notebook.ipynb
+- dataset.csv
+
+Langkah 3 – Buka Notebook
+Buka notebook menggunakan:
+Jupyter Notebook
+atau
+Google Colab
+
+Langkah 4 – Jalankan Semua Cell
+Jalankan seluruh cell dari atas ke bawah secara berurutan.
