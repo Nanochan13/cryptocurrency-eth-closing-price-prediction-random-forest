@@ -140,7 +140,11 @@ This project is developed as part of undergraduate final project research in mac
 
 - Proper validation methodology  
 - Leakage prevention  
-- Financially meaningful target engineering  
+- Financially meaningful target engineering
+
+Actual vs Prediction
+<img width="1787" height="485" alt="image" src="https://github.com/user-attachments/assets/e2e3c833-c9b8-4349-9b84-50adea0c9192" />
+
 
 ---
 
